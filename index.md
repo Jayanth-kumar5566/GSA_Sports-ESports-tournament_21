@@ -5,6 +5,7 @@ You can view to live-stream of the ESports-PUBG tournament at [GSA-Youtube page]
 Please fill in this form to give feedback regarding [this event](https://forms.office.com/Pages/ResponsePage.aspx?id=SJPOFSq-K0aPwOF2WpsgSt53s4-5xM5MlJ_B7aUXqvRUQ1BVUE9CRTdIOVFHSzhVNlYxTDJFNzlLTi4u) - this is essential to improve our future events. 
 
 ## Results - Score Board
+
 |             |   |     Game   1    |    Game 1   |   |     Game   2    |    Game 2   |   |     Game   3    |    Game 3   |   |     Game   4    |    Game 4   |   | Total Points |   | Ranking |
 |-------------|---|:---------------:|:-----------:|---|:---------------:|:-----------:|:-:|:---------------:|:-----------:|---|:---------------:|:-----------:|:-:|--------------|---|---------|
 | Team Number |   | Position points | Kill points |   | Position points | Kill points |   | Position points | Kill points |   | Position points | Kill points |   |              |   |         |
