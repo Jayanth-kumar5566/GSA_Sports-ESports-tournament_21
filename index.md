@@ -6,7 +6,7 @@ Please fill in this form to give feedback regarding [this event](https://forms.o
 
 ## Results - Score Board
 
-<img src="./Results.png" alt="image" width="200"/>
+<img src="./Results.png" alt="image" width="2500"/>
 
 | Rank |       Team       |
 |:----:|:----------------:|
