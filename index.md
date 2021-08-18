@@ -8,6 +8,13 @@ Please fill in this form to give feedback regarding [this event](https://forms.o
 
 ![Image](./Results.png)
 
+| Rank |       Team       |
+|:----:|:----------------:|
+|   1  |    **Team 7** |  
+|   2  |    **Team 8** |  
+|   3  |    **Team 3** |  
+
+
 
 ## Results - Most Valuable Player
 
