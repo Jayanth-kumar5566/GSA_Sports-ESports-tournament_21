@@ -6,22 +6,6 @@ Please fill in this form to give feedback regarding [this event](https://forms.o
 
 ## Results - Score Board
 
-|             |   |     Game   1    |    Game 1   |   |     Game   2    |    Game 2   |   |     Game   3    |    Game 3   |   |     Game   4    |    Game 4   |   | Total Points |   | Ranking |
-|-------------|---|:---------------:|:-----------:|---|:---------------:|:-----------:|:-:|:---------------:|:-----------:|---|:---------------:|:-----------:|:-:|--------------|---|---------|
-| Team Number |   | Position points | Kill points |   | Position points | Kill points |   | Position points | Kill points |   | Position points | Kill points |   |              |   |         |
-| 1           |   | 2               | 0           |   | 6               | 3           |   | 3               | 1           |   | 2               | 4           |   | 21           |   | 6       |
-| 2           |   | 2               | 0           |   | 2               | 2           |   | 0               | 0           |   | 2               | 2           |   | 10           |   | 7       |
-| 3           |   | 8               | 12          |   | 0               | 1           |   | 10              | 6           |   | 8               | 7           |   | 52           |   | 3       |
-| 4           |   | 0               | 0           |   | 2               | 1           |   | 2               | 0           |   | 0               | 0           |   | 5            |   | 10      |
-| 5           |   | 10              | 8           |   | 10              | 5           |   | 2               | 0           |   | 4               | 1           |   | 40           |   | 4       |
-| 6           |   | 0               | 0           |   | 2               | 2           |   | 2               | 1           |   | 0               | 0           |   | 7            |   | 8       |
-| 7           |   | 6               | 3           |   | 4               | 11          |   | 8               | 8           |   | 10              | 12          |   | 62           |   | 1       |
-| 8           |   | 4               | 12          |   | 8               | 10          |   | 6               | 9           |   | 2               | 4           |   | 55           |   | 2       |
-| 9           |   | NA              | NA          |   | NA              | NA          |   | NA              | NA          |   | NA              | NA          |   | 0            |   | 12      |
-| 10          |   | 2               | 0           |   | 0               | 0           |   | 0               | 0           |   | 0               | 0           |   | 2            |   | 11      |
-| 11          |   | 3               | 0           |   | 0               | 0           |   | 0               | 0           |   | 3               | 0           |   | 6            |   | 9       |
-| 12          |   | 0               | 2           |   | 3               | 3           |   | 4               | 6           |   | 6               | 5           |   | 29           |   | 5       |
-
 ## Results - Most Valuable Player
 
 
