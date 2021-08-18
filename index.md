@@ -6,6 +6,9 @@ Please fill in this form to give feedback regarding [this event](https://forms.o
 
 ## Results - Score Board
 
+![Image](./Results.png)
+
+
 ## Results - Most Valuable Player
 
 
