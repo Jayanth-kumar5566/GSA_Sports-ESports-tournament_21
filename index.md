@@ -23,6 +23,8 @@ Please fill in this form to give feedback regarding [this event](https://forms.o
 | Rank |       Name       | Kills |
 |:----:|:----------------:|:-----:|
 |   1  |    **Ho Si Hui**   |   16   |
+|   2  |    Ding Bangjie   |   14   |
+|   3  |    Guo Ziwei   |   11   |
 
 
 ## Results - Most Liked Player
