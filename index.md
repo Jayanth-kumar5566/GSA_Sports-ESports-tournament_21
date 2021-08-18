@@ -11,6 +11,7 @@ Please fill in this form to give feedback regarding [this event](https://forms.o
 ## Results - Most Liked Player
 
 
+Congratulations to all the winners and participants of this event!!
 
 ```markdown
 Syntax highlighted code block
