@@ -11,6 +11,9 @@ Please fill in this form to give feedback regarding [this event](https://forms.o
 
 ## Results - Most Valuable Player
 
+| Rank |       Name       | Kills |
+|:----:|:----------------:|:-----:|
+|   1  |    **Ho Si Hui**   |   16   |
 
 
 ## Results - Most Liked Player
